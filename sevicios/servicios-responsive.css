@@ -1,0 +1,241 @@
+@media(max-width:400px){
+	.container-fondo{
+		width: 100%;	
+		background-size: cover;
+		height: 400px;
+    }
+	.sello{
+		width:100px;
+		margin-top: -300px;
+		margin-right: 20px;
+		}
+		.logo-s{
+			width: 100px;
+			margin-top: 15px;
+			margin-bottom: 5px;
+		}
+		.title-mei{
+			font-size:20px;
+			margin-left: 4%;
+			line-height: 1.2;
+		}
+		.holding-tension{
+			width:340px;
+			font-size:15px;
+			margin-top: 30px;
+			margin-left: 5%;
+			line-height: 1.2;
+		}
+		.button-mei{
+			width: 95%;
+			margin-top: -100px;
+			padding: -10px;
+			height: 20px;
+			justify-content: center;
+			text-align: center;
+			align-items: center;
+		}
+	}
+@media(max-width:400px){
+	.fondob{
+		width: 100%;	
+		background-size: cover;
+		height: 400px;
+    }
+		.multimetro{
+		width:100px;
+		margin-top: -300px;
+		margin-right: 20px;
+		}
+		.logo-s{
+			width: 100px;
+			margin-top: 15px;
+			margin-bottom: 5px;
+		}
+		.title-productos{
+			font-size:12px;
+			margin-top:8px;
+			margin-left: 4%;
+			line-height: 1.2;
+		}
+		.holding-servicios {
+			width:340px;
+			font-size:10px;
+			margin-top: 30px;
+			margin-left: 5%;
+			line-height: 1.2;
+		}
+		.button-productos{
+			width: 95%;
+			margin-top:-40px;
+			padding: -10px;
+			height: 20px;
+		}
+}
+@media(max-width:400px){
+	.fondoc{
+		width: 100%;	
+		background-size: cover;
+		height: 400px;
+    }
+	.interruptores{
+		width:80px;
+		margin-top:5px;
+		margin-right:20px;
+		}
+		.redes{
+		width:80px;
+		margin-top:3px;
+		margin-right:20px;	
+		}
+		.logo-s{
+			width: 100px;
+			margin-top: 15px;
+			margin-bottom: 5px;
+		}
+		.title-cableado{
+			margin-top: 10px;
+			font-size:12px;
+			margin-left: 4%;
+			line-height: 1.2;
+		}
+		.holding-cableado{
+			width:340px;
+			font-size:12px;
+			margin-top: 15px;
+			text-align: left;
+			margin-left: 5%;
+			line-height: 1.2;
+		}
+		.button-cableado{
+			width: 95%;
+			margin-top:10px;
+			padding:-10px;
+			height:20px;
+			justify-content: center;
+			text-align: center;
+			align-items: center;
+		}
+}
+@media(max-width:400px){
+	.fondod{
+		width: 100%;	
+		background-size: cover;
+		height: 400px;
+    }
+	.cableado{
+		width:100px;
+		margin-top:5px;
+		margin-right:20px;
+		}
+		.logo-s{
+			width: 100px;
+			margin-top: 15px;
+			margin-bottom: 5px;
+		}
+		.title-electrico{
+			margin-top: 10px;
+			font-size:12px;
+			margin-left: 4%;
+			line-height: 1.2;
+		}
+		.holding-iluminacion{
+			width:340px;
+			font-size:12px;
+			margin-top: 15px;
+			text-align: left;
+			margin-left: 5%;
+			line-height: 1.2;
+		}
+		.button-cableadoe{
+			width: 95%;
+			margin-top:18px;
+			padding:-10px;
+			height:20px;
+			justify-content: center;
+			text-align: center;
+			align-items: center;
+		}
+}
+@media(max-width:400px){
+	.fondoe{
+		width: 100%;	
+		background-size: cover;
+		height: 400px;
+    }
+	.edificio{
+		width:100px;
+		margin-top: -150px;
+		margin-right:20px;
+		}
+		.logo-s{
+			width: 100px;
+			margin-top: 15px;
+			margin-bottom: 5px;
+		}
+		.title-edificios{
+			margin-top: 10px;
+			font-size:12px;
+			margin-left: 4%;
+			line-height: 1.1;
+		}
+		.holding-edificios{
+			width:300px;
+			font-size:12px;
+			margin-top: -30px;
+			text-align: left;
+			margin-left: 5%;
+			line-height: 1.2;
+		}
+		.button-edificios{
+			width: 95%;
+			margin-top:18px;
+			padding:-10px;
+			height:20px;
+			justify-content: center;
+			text-align: center;
+			align-items: center;
+		}
+}
+@media(max-width:400px){
+	.fondof{
+		width: 100%;	
+		background-size: cover;
+		height: 400px;
+    }
+	.camaras{
+		width:100px;
+		margin-top:5pxpx;
+		margin-right:20px;
+		}
+		.logo-s{
+			width: 100px;
+			margin-top: 15px;
+			margin-bottom: 5px;
+		}
+		.title-red{
+			margin-top: 10px;
+			font-size:12px;
+			margin-left: 4%;
+			line-height: 1.1;
+		}
+		.holding-red{
+			width:300px;
+			font-size:12px;
+			margin-top: -30px;
+			text-align: left;
+			margin-left: 5%;
+			line-height: 1.2;
+		}
+		.button-red{
+			width: 95%;
+			margin-top:18px;
+			padding:-10px;
+			height:20px;
+			justify-content: center;
+			text-align: center;
+			align-items: center;
+		}
+}
+
+

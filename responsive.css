@@ -1,0 +1,162 @@
+@media(max-width:400px){
+	.container-fluid{
+		width: 100%;
+    }
+}
+@media (max-width:400px){
+	.camara{
+		width: 75%;
+		margin-left: 7%;
+
+	}
+}
+@media (max-width:400px){
+	.texto{
+		font-size:20px;
+		margin-left: 6%;
+		line-height: 1.2;
+		
+		}
+}
+
+       /*tarjetas*/
+
+@media (max-width:400px){
+	.body-card{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:20px;
+		
+		}
+}
+@media (max-width:400px){
+	.body-card2{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:20px;
+		
+		}
+}
+@media (max-width:400px){
+	.body-card3{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:-37px;
+		
+		}
+}
+@media (max-width:400px){
+	.body-card4{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:-50px;
+		
+		}
+}
+@media (max-width:400px){
+	.body-card5{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:-60px;
+		
+		}
+}
+@media (max-width:400px){
+	.body-card6{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:10px;
+		
+		}
+}
+@media (max-width:400px){
+	.body-card7{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:-9px;
+		
+		}
+}
+@media (max-width:400px){
+	.body-card8{
+		display: flex;
+		width:60%;
+		margin-left:80px;
+		margin-bottom:10px;
+		
+		}
+}
+
+ /*fin tarjetas*/
+
+/*inicio footer*/
+
+@media (max-width:400px){
+	.container-footer{
+		display:flex;
+		width:50%;
+        text-align:center;
+        justify-content: center;
+        align-items: center;
+		}
+}
+@media (max-width:400px){
+	.img-footer{
+		display:flex;
+		width: 150px;
+		text-align:center;
+        justify-content: center;
+        align-items: center;
+        margin-left: 170px;
+		}
+}
+@media (max-width:400px){
+	.logo-redesf{
+		display:flex;
+		width: 30px;
+		margin-left:50px;
+		}
+}
+@media (max-width:400px){
+	.logo-redesi{
+		display:flex;
+		width: 30px;
+		margin-left:5px;
+
+		}
+}
+@media (max-width:400px){
+	.logo-redesw{
+		display:flex;
+		float: left;
+		width: 30px;
+		margin-left: 500px;
+		}
+}
+@media (max-width:400px){
+	.direccion-mei{
+		display:flex;
+		width: -20px;
+		text-align:center;
+        justify-content: center;
+        align-items: center;
+		margin-left: 210px;
+		
+
+		}
+}
+
+
+
+
+
+
+
+	
